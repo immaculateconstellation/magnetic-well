@@ -25,4 +25,4 @@ Neodymium magnet → cast iron yoke → clay → aluminum cross → etched steel
 - [Grandpa's Badge and the Magnetic Well](https://github.com/immaculateconstellation/grandpas-badge-and-the-magnetic-well) — the children's picture book built on this well.
 - [AHR-Endpoint](https://github.com/immaculateconstellation/ahr-endpoint-p) — Adaptive Hollow Reflector, an experimental Rust endpoint-security agent.
 - [IOF Resonance](https://github.com/immaculateconstellation/Iof-resonance) — the Infinite Optical Fabric dashboard.
-- [Self-Dissolving Magnetic Microswimmers](https://github.com/immaculateconstellation/self-disolving-magnetic-swimmers) — a concept note for plaque-breaking microrobots that dissolve into usable iron.
+- Self-dissolving magnetic microswimmers — a planned/non-public concept note for plaque-breaking microrobots that dissolve into usable iron.
